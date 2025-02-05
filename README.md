@@ -1,2 +1,2 @@
 # fima_project
-hello i am new
+I am doing project
